@@ -1,7 +1,7 @@
 {
 "companyName": "XzoneGames",
 "productName": "Futbolin",
-"productVersion": "0.1",
+"productVersion": "1",
 "dataUrl": "Futbolin.data.unityweb",
 "wasmCodeUrl": "Futbolin.wasm.code.unityweb",
 "wasmFrameworkUrl": "Futbolin.wasm.framework.unityweb",
